@@ -7,5 +7,7 @@
             "email": "muxajibi41981@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
+    }
 }
