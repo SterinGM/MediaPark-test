@@ -1,0 +1,11 @@
+{
+    "name": "steringm/media-park-test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Grigoriy Sterin",
+            "email": "muxajibi41981@gmail.com"
+        }
+    ],
+    "require": {}
+}
